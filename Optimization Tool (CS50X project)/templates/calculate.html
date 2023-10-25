@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minimum Cost Feed Mix Calculator</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Minimum Cost Feed Mix Calculator</h1>
+    <form action="/" method="POST">
+        <label for="x">Amount of Special Feed Needed Daily (x):</label>
+        <input type="number" name="x" step="0.01" required><br>
+
+        <label for="y">Minimum Protein Requirement (%):</label>
+        <input type="number" name="y" step="0.01" required><br>
+
+        <label for "z">Maximum Fiber Requirement (%):</label>
+        <input type="number" name="z" step="0.01" required><br>
+
+        <label for="cost_corn">Cost of Corn (per kg):</label>
+        <input type="number" name="cost_corn" step="0.01" required><br>
+
+        <label for="cost_soybean">Cost of Soybean Meal (per kg):</label>
+        <input type="number" name="cost_soybean" step="0.01" required><br>
+
+        <input type="submit" value="Calculate Minimum Cost">
+    </form>
+</body>
+</html>
