@@ -8,5 +8,5 @@ I am interested in deepening my knowledge of Computer Science, particularly in P
 
 One day... Some day...
 
-Please visit my LinkedIn account for more details about me: 
-[Link](linkedin.com/in/jonas-low-43a94728b)
+Please visit my LinkedIn account for more details about me:
+[Link to my LinkedIn account](linkedin.com/in/jonas-low-43a94728b)
