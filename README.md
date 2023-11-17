@@ -7,7 +7,9 @@ Greetings, I'm Jonas, a Chemical Engineering undergraduate at the National Unive
 I am interested in deepening my knowledge of Computer Science, particularly in Python and C-programming languages. I aspire to one day become a successful data scientist or data analyst. However, I also am a firm believer in the central dogma: "Money is King". I intend to use what little knowledge I learn from my Computer Science journey and implement it to engineer a lucrative career in Quantitative Finance or Investment Analyst.
 
 One day...
+
 Some day...
 
 Please visit my LinkedIn account for more details about me: 
+
 linkedin.com/in/jonas-low-43a94728b
