@@ -1,4 +1,4 @@
-# Jonas' projects!
+# Jonas' CS50 projects!
 
 **Self-Introduction**
 
